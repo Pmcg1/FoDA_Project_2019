@@ -1,6 +1,6 @@
 # Fundamentals of Data Analysis 2019 Project
-## G00190832 
-## Peter McGowan
+### G00190832 
+### Peter McGowan
 
 ## Introduction
 
