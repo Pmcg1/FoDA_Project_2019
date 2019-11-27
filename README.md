@@ -7,9 +7,12 @@
 This analysis of the Tips Dataset has been carried out as an assignment of the Fundamentals of Data Analysis module of the Higher Diploma In Data Analytics at GMIT. The project description can be found [here](https://github.com/ianmcloughlin/project-2019-fundda/blob/master/project.pdf).
 
 The repository contains a Jupyter Notebook that explores aspects of the Tips Dataset with the aid of Seaborn. The tasks assigned are as follows:
-1. <b>Description:</b> >Create a git repository and make it available online for the lecturer to clone. The repository should contain all your work for this assessment. Within the repository, create a jupyter notebook that uses descriptive statistics and plots to describe the tips dataset. This part is worth 30% of your overall mark.
-2. <b>Regression:</b> >To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount, and this part is also worth 30%.
-3. <b>Analyse:</b> >Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish --- for example, you may analyse all pairs of variables, or select a subset and analyse those. This part is worth 40%.
+1. <b>Description:</b> 
+>Create a git repository and make it available online for the lecturer to clone. The repository should contain all your work for this assessment. Within the repository, create a jupyter notebook that uses descriptive statistics and plots to describe the tips dataset. This part is worth 30% of your overall mark.
+2. <b>Regression:</b> 
+>To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount, and this part is also worth 30%.
+3. <b>Analyse:</b> 
+>Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish --- for example, you may analyse all pairs of variables, or select a subset and analyse those. This part is worth 40%.
 
 
 The repository also includes:
