@@ -56,8 +56,10 @@ This project also requires a number of external Python libraries ([listed below]
 * [Seaborn](https://seaborn.pydata.org/) - Used for creation and manipulation of all plots in the notebook;
 * [Numpy](https://www.numpy.org/) - Numpy is used for some mathematical and statistical functions;
 * [scipy](https://www.scipy.org/) - The [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html) library is used for its skewness function.
+* [statsmodel] (https://www.statsmodels.org/stable/index.html) - The Linear Regression module from statsmodel is used.
+* [warnings] (https://docs.python.org/3/library/warnings.html) - Python's warnings library is included for suppression of Future Warnnings from statsmodel.
 
-Please note that the programmes will not run successfuly if their required libraries are not installed.
+Please note that the programme will not run successfuly if the required libraries are not installed.
 
 ### How to Run
 
